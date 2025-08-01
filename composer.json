@@ -2,7 +2,7 @@
     "name": "tim.alexander/1brc-php",
     "autoload": {
         "psr-4": {
-            "TimAlexander\\1brcPhp\\": "src/"
+            "TimAlexander\\OnebrcPhp\\": "src/"
         }
     },
     "authors": [
