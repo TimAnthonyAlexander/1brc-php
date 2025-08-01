@@ -1,0 +1,15 @@
+{
+    "name": "tim.alexander/1brc-php",
+    "autoload": {
+        "psr-4": {
+            "TimAlexander\\1brcPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tim Anthony Alexander",
+            "email": "info@timanthonyalexander.de"
+        }
+    ],
+    "require": {}
+}
